@@ -1,0 +1,24 @@
+1. 5-10 minut na przeanalizowanie zadań na kartce i napisanie na zadaniu z jakiej jest kategorii.
+Np: matma, grafy, dp, triv, ewentualne sturktury i inne.
+2. Jeżeli zadanie będzie konceptowo proste to Wiktor szybko je zaklepie.
+W przeciwnym wypadku Frus to zrobi.
+
+Jeżeli następne zadanie również będzie proste to Wiktor lub Frus je odrazu zaklepią,
+w przeciwnym wypadku w tym czasie Wiktor przepisze z kartki kod do stresstestingu.
+
+Po tych czynnościach jeżeli nie ma prostego trzeciego zadania to każdy sobie dobiera zadanie i rozwiązuje je konceptowo, można odrazu zapisać notatki na kartce. Jeżeli ktoś jest pewny swojego rozwiązania a w tym czasie inna osoba pewna swojego rozwiązania zajmuje komputer, to osoba pierwsza pisze kod na kartce.
+
+W przypadku kiedy Wiktor lub Frus uzna że rozwiązał trudniejsze konceptowo zadanie, poświęca 1-2minuty na powiedzeniu rozwiązania jego innym osobom (nie dotyczy zadań trywialnych, chyba że w max minutę).
+
+Jeżeli jest wymagana jakaś struktura danych to napisze ją Wiktor chyba że Frus będzie pewny że zna dobrą implementacje lub Wiktor nie będzie znał implementacji.
+
+Łukasz w tym samym czasie będzie rozwiązywał zadania najbardziej matematyczne oraz geometryczne, najlepiej żeby najpierw było napisane rozwiązanie konceptowo a dopiero potem (jeżeli starczy czasu) implementacja.
+
+Celujemy w 7 lub 8 zadań.
+
+Jeżeli Frus napisze kod i będzie gdzieś bug, to jeżeli Wiktor będzie rozumiał konceptowo kod to go odbuguje, w przeciwnym wypadku Frus go zdebuguje.
+
+Gdy będziemy mieć rozwiązane jakieś zadanie inne niż osoba pisząca w danym momencie na komputerze, i albo Wiktor albo Frus będą przy komputerze to jeżeli osoba siedząca przy komputerze nie jest pewna rozwiązania to ustępuje miejsca na rzecz zapisania kodu do innego zadania, w przeciwnym wypadku osoba przy komputerze kończy kod.
+
+Gdy zadanie jest złożone implementacyjnie i jakaś osoba jest wolna, to ta wolna osoba pisze bruta na kartce
+w celu stresstestingu
