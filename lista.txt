@@ -2,18 +2,11 @@ Niech każdy sprawdzi czym jest tablica sufiksowa.
 
 Wiktor Lewicki:
 fft
-dynamiczne drzewo przedziałowe
 z-function
 manacher
-SCC
-KMP
-HLD
 ALGORYTM MO.
-Fenwick tree
-sortowanie kątowe
 aktualizacje na poddrzewach (preoder)
 toposort
-Hash Tree
 Mosty i punkt artykulacji dwuspójne składowe
 Najkrótsza ścieżka na meduzie.
 Sito erstotenesa dla większych liczb
