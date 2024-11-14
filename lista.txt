@@ -1,11 +1,7 @@
 Niech każdy sprawdzi czym jest tablica sufiksowa.
 
 Wiktor Lewicki:
-aktualizacje na poddrzewach (preoder)
-toposort
-Mosty i punkt artykulacji dwuspójne składowe
-Najkrótsza ścieżka na meduzie.
-Sito erstotenesa dla większych liczb
+Skończyłem
 
 Łukasz Stodółka:
 merge sort
