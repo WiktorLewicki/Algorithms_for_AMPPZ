@@ -1,10 +1,6 @@
 Niech każdy sprawdzi czym jest tablica sufiksowa.
 
 Wiktor Lewicki:
-fft
-z-function
-manacher
-ALGORYTM MO.
 aktualizacje na poddrzewach (preoder)
 toposort
 Mosty i punkt artykulacji dwuspójne składowe
