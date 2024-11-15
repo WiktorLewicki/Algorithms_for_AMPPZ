@@ -7,4 +7,4 @@ Skończyłem
 Skończone
 
 Frus:
-Generatorki drzew, DAGów i losowych grafów.
+Generatorki DAGów i losowych grafów.
