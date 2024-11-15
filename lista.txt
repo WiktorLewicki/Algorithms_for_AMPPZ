@@ -16,7 +16,7 @@ generatory
 
 Frus:
 Generatorki drzew, DAGów i losowych grafów.
-centroid
+(+) centroid
 bellman ford
 (+) floyd warshall
 (+) Drzewa rozpinające- algorytm prima, kraskala
