@@ -4,15 +4,7 @@ Wiktor Lewicki:
 Skończyłem
 
 Łukasz Stodółka:
-merge sort
-otoczka wypukła
-Ścieżka i cykl Eulera
-Podstawowy algorytm sprawdzania planarności.
-Metoda Forda-Fulkersona
-otoczka wypukła
-arytmetyka na stringach
-Grafy dwudzielne jakiś chujowy algorytm
-generatory
+Skończone
 
 Frus:
 Generatorki drzew, DAGów i losowych grafów.
