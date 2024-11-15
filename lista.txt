@@ -18,8 +18,8 @@ Frus:
 Generatorki drzew, DAGów i losowych grafów.
 centroid
 bellman ford
-floyd warshall
-Drzewa rozpinające- algorytm prima, kraskala
+(+) floyd warshall
+Drzewa rozpinające- algorytm prima, (+) kraskala
 Znalezienie unikalnych modulo.
 Rozszerzony Euklides
-Funkcja Eulera
+(+) Funkcja Eulera
