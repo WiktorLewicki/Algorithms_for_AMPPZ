@@ -1,24 +1,25 @@
 #include <bits/stdc++.h>
 #define pb push_back
+#define iii __int128_t
 typedef long long ll;
 using namespace std;
-vector<ll> fac;
-ll fast_pow(ll base, ll w, ll mod){
+vector<iii> fac;
+iii fast_pow(iii base, iii w, iii mod){
 	if(w==0) return 1;
 	if(w&1){
 		return (base*fast_pow(base, w-1, mod))%mod;
 	}
 	else{
-		ll res=fast_pow(base, w/2, mod);
+		iii res=fast_pow(base, w/2, mod);
 		return (res*res)%mod;
 	}
 }
-bool checker(ll n, ll a){
-	ll d=n-1;
+bool checker(iii n, iii a){
+	iii d=n-1;
 	while((d&1)==0){
 		d>>=1;
 	}
-	ll x = fast_pow(a, d, n);
+	iii x = fast_pow(a, d, n);
 	if(x==1||x==n-1) return true;
 	while(d!=n-1){
 		x=(x*x)%n;
@@ -28,7 +29,7 @@ bool checker(ll n, ll a){
 	}
 	return false;
 }
-bool rabin(ll n){
+bool rabin(iii n){
 	if(n==2) return true;
 	if(n%2==0||n<2) return false;
 	for(auto v : fac){
@@ -56,7 +57,6 @@ int main(){
 	fac.pb(37);
 	ll n;
 	cin>>n;
-	if(rabin(n)) cout<<"Primary\n";
-	else cout<<"Not primary\n";
+	if(rabin(n)) cout<<"Primary";
 	return 0;
 }
